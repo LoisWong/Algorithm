@@ -4,7 +4,7 @@ Example2: x = -123, return -321*/
 
 package Leetcode;
 
-public class easy3 {
+public class easy4 {
 	public int reverse(int x) {
         int r = x;
         if (r < 0){
